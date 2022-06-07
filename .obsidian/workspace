@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Beef Taco Skillet.md",
+            "file": "Microwave Shakshuka.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beef Taco Skillet.md",
+                "file": "Microwave Shakshuka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,15 @@
   },
   "active": "b6629f927b85e063",
   "lastOpenFiles": [
-    "Beef Taco Skillet.md",
-    "Scalloped Potatoes.md",
+    "Microwave Shakshuka.md",
+    "Untitled.md",
+    "Rice N Beans.md",
     "README.md",
-    "Brown Butter Linguine.md"
+    "Templates/Recipe Template.md",
+    "Beef Taco Skillet.md",
+    "Chocolate Chip Cookies.md",
+    "Scalloped Potatoes.md",
+    "Cheesy Broccoli Pasta Bake.md",
+    "Chicken Francese.md"
   ]
 }
