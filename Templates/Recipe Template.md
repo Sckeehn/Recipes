@@ -1,5 +1,5 @@
-# {{Title}}
-Created: {{date}} {{Time}}
+# {{title}}
+Created: {{date}} {{time}}
 
 ## Ingredients
 - Ingredient 1

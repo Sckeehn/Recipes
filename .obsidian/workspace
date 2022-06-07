@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microwave Shakshuka.md",
+            "file": "Chocolate Chip Cookies.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microwave Shakshuka.md",
+                "file": "Chocolate Chip Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b6629f927b85e063",
   "lastOpenFiles": [
+    "Chocolate Chip Cookies.md",
+    "Templates/Recipe Template.md",
+    "Brown Butter Linguine.md",
+    "Chicken Francese.md",
+    "Cheesy Broccoli Pasta Bake.md",
+    "Untitled 1 1.md",
+    "Untitled 1.md",
     "Microwave Shakshuka.md",
     "Untitled.md",
-    "Rice N Beans.md",
-    "README.md",
-    "Templates/Recipe Template.md",
-    "Beef Taco Skillet.md",
-    "Chocolate Chip Cookies.md",
-    "Scalloped Potatoes.md",
-    "Cheesy Broccoli Pasta Bake.md",
-    "Chicken Francese.md"
+    "Rice N Beans.md"
   ]
 }
