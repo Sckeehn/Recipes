@@ -7,12 +7,8 @@
         "id": "b6629f927b85e063",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chocolate Chip Cookies.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chocolate Chip Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "b6629f927b85e063",
   "lastOpenFiles": [
+    "Meal Prep Notes.md",
+    "Microwave Shakshuka.md",
+    "Untitled.md",
     "Chocolate Chip Cookies.md",
     "Templates/Recipe Template.md",
     "Brown Butter Linguine.md",
     "Chicken Francese.md",
     "Cheesy Broccoli Pasta Bake.md",
     "Untitled 1 1.md",
-    "Untitled 1.md",
-    "Microwave Shakshuka.md",
-    "Untitled.md",
-    "Rice N Beans.md"
+    "Untitled 1.md"
   ]
 }
